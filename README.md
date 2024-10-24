@@ -2,7 +2,7 @@
 
 ### What is Data Analysis
 
-Data Analysis involves inspecting the data, cleaning, transforming and moulding the data to discover useful information, draw conclusion and support decision making
+Data Analysis involves inspecting the data, cleaning, transforming and moulding the data to discover useful information, draw conclusion and support decision making.
 Every Data Analysit work with ETL
 ETL means- Extract, Transform and Load
 
