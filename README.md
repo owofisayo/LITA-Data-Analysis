@@ -13,4 +13,6 @@ ETL means- Extract, Transform and Load
 3. Identify bottlenecks and inefficiences in processes, leading to optimiazation and cost reduction
 
 ### Introduction to Excel
-#### Microsoft Excel is one the tools use in Data Analysis. Microsoft Excel is a spreadsheet application that is used to store, manage and analyze data.
+#### Microsoft Excel is one the tools use in Data Analysis. 
+
+Microsoft Excel is a spreadsheet application that is used to store, manage and analyze data.
