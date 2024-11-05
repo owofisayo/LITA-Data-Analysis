@@ -56,3 +56,31 @@ SELECT product_name, SUM(sales_amount) AS total_sales FROM sales
    email VARCHAR (255),
    )
 
+   ### Power BI
+   #### Introduction to Power Bi
+
+   Power BI is an essential tool for businesses, organizations, and individuals seeking to
+   1. Gain data-driven insights
+   2. Improve decision making
+   3. Enhance collaboration
+   4. Drive business growth
+
+Power BI is a business analytics service by microsoft that enables users to
+1. Connect to various data sources
+2. Create interactive visualizationa
+3. Build dashboards and reports
+4. analyze and share data insights
+
+Screenshot of some Power BI work
+![Screenshot (6)](https://github.com/user-attachments/assets/1ae695de-192e-4fee-80c2-654cdcdcb9c9)
+![Screenshot (5)](https://github.com/user-attachments/assets/70a79b15-d92d-4daf-a51e-9fd2ec53146c)
+![Screenshot (4)](https://github.com/user-attachments/assets/8eaaa88a-6590-4c86-b79c-07613a2f9c1a)
+![Screenshot (3)](https://github.com/user-attachments/assets/af10be81-b1e8-4a00-99a0-e950fe4db82b)
+![Screenshot (2)](https://github.com/user-attachments/assets/96ae8e02-b112-42f1-bb1b-a2830f82ffb0)
+
+
+
+
+
+
+
