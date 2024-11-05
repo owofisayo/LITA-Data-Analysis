@@ -16,17 +16,24 @@ ETL means- Extract, Transform and Load
 #### Microsoft Excel is one the tools use in Data Analysis. 
 
 Microsoft Excel is a spreadsheet application that is used to store, manage and analyze data.
+##### Screen shot of some excel work
+![Screenshot (7)](https://github.com/user-attachments/assets/29b08752-6e6c-44f4-be8f-2ec60918d02c)
+![Screenshot (10)](https://github.com/user-attachments/assets/bdbd3ed9-81ff-4149-b261-3664224734b0)
+![Screenshot (9)](https://github.com/user-attachments/assets/17fa6a3a-4711-4d64-8f54-0d77d7662880)
+![Screenshot (8)](https://github.com/user-attachments/assets/f977fb22-45cd-4c30-b0fc-a74116ea0952)
 
 ### Indroduction to SQL
 #### What is SQL
 
 SQL stands for Structure Query Language
 It is used for storing and managing data in Relational Database Management System (RDBMS). SQL also allows users to query the database in a number of ways using english-like statement
+
 #### SQL Codes Sample
 1. SELECT statements with fltering, sorting and grouping
 2. JOINs (INNER, OUTER, FULL) and subqueries
 3. Aggregate functions (SUM, AVG, MAX)
 4. Data Manipulation (INSERT, UPDATE, DELETE)
+
 #### SQL Queries
 1. Querying employees data
 
