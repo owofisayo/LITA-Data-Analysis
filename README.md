@@ -77,10 +77,3 @@ Screenshot of some Power BI work
 ![Screenshot (4)](https://github.com/user-attachments/assets/8eaaa88a-6590-4c86-b79c-07613a2f9c1a)
 ![Screenshot (3)](https://github.com/user-attachments/assets/af10be81-b1e8-4a00-99a0-e950fe4db82b)
 ![Screenshot (2)](https://github.com/user-attachments/assets/96ae8e02-b112-42f1-bb1b-a2830f82ffb0)
-
-
-
-
-
-
-
